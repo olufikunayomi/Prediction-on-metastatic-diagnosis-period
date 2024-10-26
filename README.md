@@ -10,9 +10,9 @@ The project involved analyzing a dataset with approximately 19,000 records, whic
 # Solution:
 To tackle the prediction task, various data science techniques were employed, including the use of libraries such as NumPy, Pandas, Scikit-learn, Seaborn, and Matplotlib. The following steps were taken:
 
-Data Cleaning: Missing values were imputed, particularly in the BMI and payer type columns, while irrelevant features were removed.
-Exploratory Data Analysis (EDA): Visualizations were created to understand the distribution and relationships within the data, separating categorical and numerical features.
-Modeling: Several algorithms were applied, including Linear Regression, Ridge Regression, Random Forest, and the use of Simple Imputer for missing value handling. The model's performance was evaluated using Root Mean Squared Error (RMSE), and the best-performing model was selected for predictions.
+# Data Cleaning: Missing values were imputed, particularly in the BMI and payer type columns, while irrelevant features were removed.
+# Exploratory Data Analysis (EDA): Visualizations were created to understand the distribution and relationships within the data, separating categorical and numerical features.
+# Modeling: Several algorithms were applied, including Linear Regression, Ridge Regression, Random Forest, and the use of Simple Imputer for missing value handling. The model's performance was evaluated using Root Mean Squared Error (RMSE), and the best-performing model was selected for predictions.
 
 
 
